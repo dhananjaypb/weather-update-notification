@@ -5,7 +5,7 @@ It have below endpoints.
 
 1. Create new Notification Details
 	endpoint: /create
-		eg.: http://localhost:8081/weather-update-notification/create
+	eg.: http://localhost:8081/weather-update-notification/create
 	method: POST
 	request payload: 
 	
@@ -23,7 +23,7 @@ It have below endpoints.
 	
 2. Fetch All Notification Details
 	endpoint: /getAllNotificationDetails
-		eg.: http://localhost:8081/weather-update-notification/getAllNotificationDetails
+	eg.: http://localhost:8081/weather-update-notification/getAllNotificationDetails
 	method: GET
 	response payload: 
 	[
