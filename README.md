@@ -1,4 +1,4 @@
-# weather-update-notification
+# weather-update-notification API
 API to create and fetch notification details.
 
 It have below endpoints.
